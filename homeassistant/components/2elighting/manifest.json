@@ -1,0 +1,16 @@
+{
+  "domain": "2elighting",
+  "name": "2E Lighting",
+  "integration_type": "hub",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/2elighting",
+  "requirements": ["paho-mqtt==1.6.1"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@github.com:eOnix-Tecnologia/py2E.git"
+  ],
+  "iot_class": "local_push"
+}
